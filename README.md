@@ -1,3 +1,4 @@
+<img width="270" height="472" alt="Screenshot 2026-04-27 171948" src="https://github.com/user-attachments/assets/2f80b0a7-d8b1-4231-9adf-ca081db924ce" />
 # 🚗 Parking Lot Management System (C)
 
 ## 📌 Overview
